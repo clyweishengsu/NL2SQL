@@ -1,0 +1,29 @@
+# Runtime data and local credentials
+local_app/data/
+
+# Build output
+build/
+dist/
+*.zip
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Vendored local runtime (install from requirements when cloning)
+local_app/vendor/
+
+# Local workspace artifacts
+.Temp/
+*.lnk
+自然语言转化SQL.html
+智能问数Pipeline.json
+prompts/*.docx
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
